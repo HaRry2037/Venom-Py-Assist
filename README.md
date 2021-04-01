@@ -22,7 +22,7 @@
 <br>
 <hr>
 <br>
-# Installation
+<h1> <b> Installation </h1> </b>
 <br>
 <ul>
   <li> git clone https://github.com/venomSec-dev/Venom-Py-Assist </li>
@@ -32,7 +32,7 @@
   <br>
   <hr>
   <br>
-  # Run
+<h1> <b> Run </h1> </b>
   <br>
   <ul>
   <li> python3 venom.py </li>
