@@ -12,7 +12,7 @@
 <br>
 <hr>
 <br>
-# About the Author: Gaurav Chaudhary (Venom)
+<h1> <b> About the Author: Gaurav Chaudhary (Venom) </b></h1>
 <br>
 <ul>
 <li>Follow me on insta: <a href='https://instagram.com/i.m.gauravchaudhary'> i.m.gauravchaudhary </a><br></li>
